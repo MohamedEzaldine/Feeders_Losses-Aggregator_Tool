@@ -26,8 +26,8 @@
 <p align="center">
   <img src="main.png" width="32%" alt="Main Interface">
   <img src="process.png" width="32%" alt="Processing Data">
-  <img src="report.png" width="32%" alt="Excel Report">
 </p>
+<img src="report.png" width="50%" alt="Excel Report">
 
 ## ⚙️ التثبيت (Installation)
 
