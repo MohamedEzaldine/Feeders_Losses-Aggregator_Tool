@@ -29,7 +29,7 @@
 ## 📸 لقطات الشاشة (Screenshots)
 
 <p align="center">
-  <img src="main.png" width="60%" alt="Main Interface">
+  <img src="main.png" width="40%" alt="Main Interface">
 </p>
 
 ## ⚙️ التثبيت (Installation)
