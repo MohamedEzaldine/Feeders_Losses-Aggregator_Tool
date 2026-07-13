@@ -1,6 +1,13 @@
 # Feeders Losses Aggregator Tool - V3 ⚡📊
 
 [![Version: 3.0.0](https://img.shields.io/badge/Version-3.0.0-orange.svg)](#)
+<!-- الأوسمة الاحترافية للمستودع -->
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
+[![CIRED 2027](https://img.shields.io/badge/Paper-CIRED_2027-success.svg)](#)
+
+# Feeders Losses Aggregator Tool - V3 ⚡📊
+... (باقي محتوى الـ README اللي كتبناه)
 
 أداة هندسية متخصصة تم تطويرها لأتمتة وتجميع بيانات الفقد الفني، الطاقات المحققة، وإحصائيات المغذيات (كابلات أرضية / خطوط هوائية) من ملفات دراسات الإكسيل المتعددة. الأداة مصممة خصيصاً لتسريع سير العمل في الإدارة الفنية والمكاتب الهندسية في قطاع توزيع الكهرباء، مع دعم كامل للإصدارات القديمة والحديثة من نماذج إدخال البيانات.
 
