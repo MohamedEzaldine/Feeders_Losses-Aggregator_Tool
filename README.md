@@ -21,17 +21,13 @@
 
 > **الواجهة الرئيسية للبرنامج:**
 > 
-> <img src="main.png" width="200" alt="Main Interface">
+## 📸 لقطات الشاشة (Screenshots)
 
-> **أثناء معالجة وتجميع البيانات:**
-> 
-> <img src="process.png" width="200" alt="Main Interface">
-
-> **شكل التقرير النهائي المُصدّر (Excel):**
-> 
-> <img src="report.png" width="200" alt="Main Interface">
-
----
+<p align="center">
+  <img src="main.png" width="32%" alt="Main Interface">
+  <img src="process.png" width="32%" alt="Processing Data">
+  <img src="report.png" width="32%" alt="Excel Report">
+</p>
 
 ## ⚙️ التثبيت (Installation)
 
