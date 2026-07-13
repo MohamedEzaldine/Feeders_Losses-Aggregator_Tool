@@ -21,15 +21,15 @@
 
 > **الواجهة الرئيسية للبرنامج:**
 > 
-> ![Main Interface](link_to_main_interface_image.png)
+> ![Main Interface](main.png)
 
 > **أثناء معالجة وتجميع البيانات:**
 > 
-> ![Processing Data](link_to_processing_image.png)
+> ![Processing Data](process.png)
 
 > **شكل التقرير النهائي المُصدّر (Excel):**
 > 
-> ![Excel Report](link_to_excel_report_image.png)
+> ![Excel Report](report.png)
 
 ---
 
