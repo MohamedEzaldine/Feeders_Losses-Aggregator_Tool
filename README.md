@@ -1,10 +1,9 @@
 # Feeders Losses Aggregator Tool - V3 ⚡📊
 
 [![Version: 3.0.0](https://img.shields.io/badge/Version-3.0.0-orange.svg)](#)
-<!-- الأوسمة الاحترافية للمستودع -->
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)](#)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
-[![CIRED 2027](https://img.shields.io/badge/Paper-CIRED_2027-success.svg)](#)
+[![UEEDC](https://img.shields.io/badge/Company-UEEDC-gold.svg)](#)
 
 # Feeders Losses Aggregator Tool - V3 ⚡📊
 ... (باقي محتوى الـ README اللي كتبناه)
