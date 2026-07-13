@@ -21,7 +21,7 @@
 
 > **الواجهة الرئيسية للبرنامج:**
 > 
-> ![Main Interface](main.png)
+> <img src="main.png" width="500" alt="Main Interface">
 
 > **أثناء معالجة وتجميع البيانات:**
 > 
