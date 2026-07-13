@@ -21,15 +21,15 @@
 
 > **الواجهة الرئيسية للبرنامج:**
 > 
-> <img src="main.png" width="500" alt="Main Interface">
+> <img src="main.png" width="200" alt="Main Interface">
 
 > **أثناء معالجة وتجميع البيانات:**
 > 
-> ![Processing Data](process.png)
+> <img src="process.png" width="200" alt="Main Interface">
 
 > **شكل التقرير النهائي المُصدّر (Excel):**
 > 
-> ![Excel Report](report.png)
+> <img src="report.png" width="200" alt="Main Interface">
 
 ---
 
