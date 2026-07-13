@@ -4,6 +4,7 @@
 [![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)](#)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![UEEDC](https://img.shields.io/badge/Company-UEEDC-gold.svg)](#)
+
 أداة هندسية مجانية متخصصة تم تطويرها لأتمتة وتجميع بيانات الفقد الفني، الطاقات المحققة، وإحصائيات المغذيات (كابلات أرضية / خطوط هوائية) من ملفات دراسات الإكسيل المتعددة. الأداة مصممة خصيصاً لتسريع سير العمل في الإدارة الفنية والمكاتب الهندسية في قطاع توزيع الكهرباء، مع دعم كامل للإصدارات القديمة والحديثة من نماذج إدخال البيانات.
 
 ---
