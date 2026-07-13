@@ -29,8 +29,7 @@
 ## 📸 لقطات الشاشة (Screenshots)
 
 <p align="center">
-  <img src="main.png" width="32%" alt="Main Interface">
-  <img src="process.png" width="32%" alt="Processing Data">
+  <img src="main.png" width="60%" alt="Main Interface">
 </p>
 
 ## ⚙️ التثبيت (Installation)
